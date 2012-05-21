@@ -1,0 +1,10 @@
+# Sucks/Rocks from Destroy All Software
+
+[sucks rocks 1](https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-1-the-rails-app)
+[sucks rocks 2](https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-2-computing-scores)
+[sucks rocks 3](https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-3-the-search-engine)
+[sucks rocks 4](https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-4-caching)
+[sucks rocks 5](https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-5-a-bug-and-a-model)
+[sucks rocks 6](https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-6-a-controller)
+[sucks rocks 7](https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-7-more-cucumber)
+[sucks rocks 8](https://www.destroyallsoftware.com/screencasts/catalog/sucks-rocks-8-the-whole-design)
