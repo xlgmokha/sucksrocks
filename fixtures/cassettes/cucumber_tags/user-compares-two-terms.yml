@@ -1,0 +1,31 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=<BING_APP_ID>&query=microsoft%20rocks&sources=Web
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Content-Length:
+      - '305'
+      Date:
+      - Thu, 24 May 2012 02:26:01 GMT
+      Connection:
+      - keep-alive
+    body:
+      encoding: US-ASCII
+      string: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"microsoft
+        rocks"},"Errors":[{"Code":1002,"Message":"Parameter has invalid value.","Parameter":"SearchRequest.AppId","Value":"1DhRyco1DRQD8EvN7zjMA\/ZhdOBlDt4PnmLnsnrw8BE=","HelpUrl":"http:\/\/msdn.microsoft.com\/en-us\/library\/dd251042.aspx"}]}}'
+    http_version: 
+  recorded_at: Thu, 24 May 2012 02:26:01 GMT
+recorded_with: VCR 2.1.1
