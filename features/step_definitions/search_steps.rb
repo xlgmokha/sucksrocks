@@ -4,5 +4,5 @@ When /^I search for (.*)$/ do |term|
 end
 
 Then /^apple should have a higher score than microsoft$/ do
-  pending
+  @scores["apple"].should == be > @scores["micrsoft"]
 end
