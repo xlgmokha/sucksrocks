@@ -31,5 +31,6 @@ if [ $need_rails ]; then
     command="ruby -S bundle exec $command"
 fi
 
+echo "test " . $command . ' ' . $filename
 RAILS_ENV=test $command $filename
 
